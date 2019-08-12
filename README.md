@@ -1,2 +1,4 @@
 # zB198
-Get Goods And Free 
+This is a Scripts i got it from some forums use it on every linux with depedencies!
+
+
